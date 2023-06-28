@@ -1,0 +1,4 @@
+com\aurora\redisPoC\repository\ItemDao.class
+com\aurora\redisPoC\RedisPoCApplication.class
+com\aurora\redisPoC\model\ItemDto.class
+com\aurora\redisPoC\controller\ItemController.class
